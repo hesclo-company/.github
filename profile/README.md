@@ -59,7 +59,6 @@ Our solution is designed for organizations that demand the highest levels of **d
 - Fully **GDPR-compliant**
 - Tenant data is **not aggregated**, **not analyzed**, **not shared**
 - Hosting takes place **exclusively in Scandinavian data centers**
-- No access by third parties, no use of public cloud providers
 
 ---
 
