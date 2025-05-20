@@ -26,10 +26,10 @@ Our solution is designed for organizations that demand the highest levels of **d
 
 - Clients can rent **dedicated bare-metal or virtual servers**
 - Define **which ports** are open and **which IPs** are allowed
-- Build secure tunnels, firewalled connections, and custom VPN routes
-- Install custom software or request our preconfigured hardened images
+- Build secure tunnels and firewalled connections
+- Install custom server on rented servers for more efficient inside you infrastructure
 - Use HESCLO to power your **custom SaaS**, **internal systems**, or **regional services**
-- Fully managed by HESCLO or optionally **self-managed via our platform**
+- Fully managed by HESCLO and optionally **self-managed via our platform**
 
 ---
 
