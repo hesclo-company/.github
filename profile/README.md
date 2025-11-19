@@ -1,4 +1,4 @@
-# HESCLO 
+# HESCLO Cloud
 > ⚙️ UNDER CONSTRUCTION
 
 **Regional. Secured. HESCLO.**  
@@ -34,7 +34,7 @@ Our solution is designed for organizations that demand the highest levels of **d
 
 ## 🖥️ Self-Hosted Option
 
-**Run your own cloud infrastructure while keeping HESCLO tools.**
+**Run in your own infrastructure while keeping HESCLO Cloud applications.**
 
 - Install and manage your own servers using **Proxmox VE**
 - Full control over scaling, networking, and server management
@@ -47,7 +47,7 @@ Our solution is designed for organizations that demand the highest levels of **d
 
 ### 🖥️ Virtualization
 - **Hypervisor:** Proxmox VE with KVM support
-- **Tenant model:** 1 VM = 1 client (fully isolated)
+- **Tenant model:** 1 Dedicated Server = 1 client (fully isolated)
 - **Management:** HESCLO platform for secure cluster management, compatible with self-hosted setups
 
 ### 📊 Monitoring & Logging
