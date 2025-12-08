@@ -1,80 +1,107 @@
-# HESCLO Cloud
+# **HESCLO**
+
 > ⚙️ UNDER CONSTRUCTION
 
-**Regional. Secured. HESCLO.**  
-Welcome to **HESCLO**, your European cloud provider with an uncompromising focus on **data protection**, **security**, and **complete data control**.
+**Engineering Independent IT Core.**
+Welcome to **HESCLO** — your partner for **infrastructure-grade software engineering**, **self-hosted IT systems**, and **cloud-optional operations**.
+We build foundational technology that stays reliable, compliant, and fully under your control — whether running in your datacenter, on dedicated hardware, or in a private cloud.
 
-Our solution is designed for organizations that demand the highest levels of **data security**, **tenant isolation**, and **legally compliant data hosting**, with flexible deployment options: **Managed Private Cloud** or **Self-Hosted Infrastructure**.
-
----
-
-## 🔐 Security Architecture
-
-**HESCLO provides isolated, private clouds – no shared environments.**
-
-- Each client receives a **dedicated, fully isolated VM** on our Proxmox infrastructure
-- **No containerization, no shared environments**, minimizing risk of data leaks
-- Access only via **highly secured VPNs**, **YubiKey-based authentication**, and **restricted east-west communication**
-- Internal infrastructure such as database servers, control services & registry systems reside in **separate, isolated networks**
-- Complete **end-to-end encryption** for storage and transmission
+Our solutions empower organizations that want **digital sovereignty**, reduced dependency on foreign ecosystems, and modern, high-quality infrastructure components.
 
 ---
 
-## ☁️ Managed Private Cloud
+## 🔐 **Secure Infrastructure & Core Systems Engineering**
 
-**Let HESCLO host and manage your cloud – with full control and scalability.**
+**HESCLO develops and operates critical IT building blocks — secure, modular, and fully self-hosted.**
 
-- Pay a **monthly fee** to use your own private cloud environment
-- Scale your infrastructure by adding **more servers** as needed
-- Fully managed by HESCLO: software updates, backups, monitoring
-- Ideal for organizations that want **turnkey cloud hosting** without maintaining hardware
-- Includes access to all HESCLO services and modules
-
----
-
-## 🖥️ Self-Hosted Option
-
-**Run in your own infrastructure while keeping HESCLO Cloud applications.**
-
-- Install and manage your own servers using **Proxmox VE**
-- Full control over scaling, networking, and server management
-- Benefit from HESCLO’s software stack, including monitoring, caching, and data management
-- Suitable for organizations with **existing hardware** or **strict compliance requirements**
+* Complete **on-premise** operation by default, cloud only when required
+* Clear separation of all services, no shared multi-tenant layers
+* Strong authentication and strict network segmentation
+* Internal components like the database layer, registry, and control services run in **dedicated, isolated environments**
+* End-to-end security for all communication and all stored data
 
 ---
 
-## ⚙️ Technology Stack
+## 🧱 **Core Products & Technologies**
 
-### 🖥️ Virtualization
-- **Hypervisor:** Proxmox VE with KVM support
-- **Tenant model:** 1 Dedicated Server = 1 client (fully isolated)
-- **Management:** HESCLO platform for secure cluster management, compatible with self-hosted setups
+### **High-Availability Cache & Data Store (HESCLO Core)**
 
-### 📊 Monitoring & Logging
-- Zabbix for system monitoring
-- Centralized audit and log management – segregated per tenant
+Your self-developed distributed cache and persistence engine:
 
-### 🔒 Authentication & Access
-- Mandatory YubiKey authentication for all logins
-- Zero-trust network architecture
-- Strict firewall rules between all internal components
+* High availability for critical workloads
+* Designed for offline / edge / on-premise environments
+* Can be integrated by external developers
+* Forms the foundation for other HESCLO services
+
+### **Microsoft-Alternative Infrastructure Components**
+
+* **Active Directory-compatible domain services** (Samba-based)
+* **SMB file services** for secure, local file handling
+* **Local registries, directory services, and internal APIs**
+* Ideal for organizations avoiding vendor lock-in or US-hosted identity systems
+
+### **Operational Tools & Internal Software**
+
+* IT documentation system
+* Project planning tools
+* Time-tracking and organizational utilities
+* Designed to run entirely on local infrastructure
 
 ---
 
-## 📜 Data Protection & Compliance
+## 🖥️ **Self-Hosted Deployments**
 
-- Fully **GDPR-compliant**
-- Tenant data is **never aggregated, analyzed, or shared**
-- Hosting takes place **exclusively in European data centers**
-- Full transparency for both managed and self-hosted deployments
+**Everything runs on your hardware — no external dependency required.**
+
+* Install the complete HESCLO stack on existing servers, Proxmox clusters, or dedicated systems
+* Full control over identity, data, compliance, and lifecycle
+* No third-party cloud services required
+* Perfect for regulated sectors or security-sensitive organizations
 
 ---
 
-## 📥 Contact
+## ☁️ **Cloud-Optional & Hybrid Operations**
 
-📧 info@hesclo.com  
-🌐 https://www.hesclo.com  
-🏢 Headquarters: Germany  
+HESCLO is primarily self-hosted — but supports hybrid models when needed:
+
+* Optional cloud integration for remote management or extended features
+* Unified architecture for local, hybrid, or off-site deployments
+* Same security and compliance standards everywhere
+* Designed for maximum operational independence
+
+---
+
+## 📊 **Monitoring & Observability**
+
+* HESCLO Monitoring Suite (based on Zabbix)
+* Centralized logs, metrics, and audit data
+* Fully isolated per installation, no shared cloud backend
+
+---
+
+## 🔒 **Authentication & Access**
+
+* Strong multi-factor authentication (YubiKey optional)
+* Zero-trust network principles
+* Strict segmentation of all services and subsystems
+* Local identity services replace cloud-hosted providers
+
+---
+
+## 📜 **Compliance & Data Protection**
+
+* Fully **GDPR-aligned**
+* All data remains on the customer’s systems
+* No telemetry, no external analysis, no data sharing
+* Transparent and verifiable security model
+
+---
+
+## 📥 **Contact**
+
+📧 **[info@hesclo.com](mailto:info@hesclo.com)**
+🌐 **[https://www.hesclo.com](https://www.hesclo.com)**
+🏢 Headquarters: Germany
 
 ---
 
