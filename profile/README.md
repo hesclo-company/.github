@@ -1,107 +1,129 @@
-# **HESCLO**
+# **HESDA**
 
 > ⚙️ UNDER CONSTRUCTION
 
-**Engineering Independent IT Core.**
-Welcome to **HESCLO** — your partner for **infrastructure-grade software engineering**, **self-hosted IT systems**, and **cloud-optional operations**.
-We build foundational technology that stays reliable, compliant, and fully under your control — whether running in your datacenter, on dedicated hardware, or in a private cloud.
+**Hegemann Software for Data & Automatisation.**
 
-Our solutions empower organizations that want **digital sovereignty**, reduced dependency on foreign ecosystems, and modern, high-quality infrastructure components.
+Welcome to **HESDA** — an **open-source platform for system automation and data management**.  
+We build modular, reliable software components for modern IT infrastructures that can run **self-hosted, on-premise, or optionally in the cloud**.
 
----
-
-## 🔐 **Secure Infrastructure & Core Systems Engineering**
-
-**HESCLO develops and operates critical IT building blocks — secure, modular, and fully self-hosted.**
-
-* Complete **on-premise** operation by default, cloud only when required
-* Clear separation of all services, no shared multi-tenant layers
-* Strong authentication and strict network segmentation
-* Internal components like the database layer, registry, and control services run in **dedicated, isolated environments**
-* End-to-end security for all communication and all stored data
+HESDA is designed for developers, DevOps teams, and organizations that value **control, transparency, and extensibility** — without unnecessary vendor lock-in.
 
 ---
 
-## 🧱 **Core Products & Technologies**
+## 🧩 **Open Source by Design**
 
-### **High-Availability Cache & Data Store (HESCLO Core)**
+**HESDA is fully open source.**
 
-Your self-developed distributed cache and persistence engine:
+- Transparent and auditable source code
+- Community-driven development
+- Extensible and easy to integrate
+- Free to use for private and commercial projects
 
-* High availability for critical workloads
-* Designed for offline / edge / on-premise environments
-* Can be integrated by external developers
-* Forms the foundation for other HESCLO services
-
-### **Microsoft-Alternative Infrastructure Components**
-
-* **Active Directory-compatible domain services** (Samba-based)
-* **SMB file services** for secure, local file handling
-* **Local registries, directory services, and internal APIs**
-* Ideal for organizations avoiding vendor lock-in or US-hosted identity systems
-
-### **Operational Tools & Internal Software**
-
-* IT documentation system
-* Project planning tools
-* Time-tracking and organizational utilities
-* Designed to run entirely on local infrastructure
+The software itself is free — revenue is generated exclusively through **optional cloud and support services**.
 
 ---
 
-## 🖥️ **Self-Hosted Deployments**
+## ⚙️ **Part 1 – System Automation**
 
-**Everything runs on your hardware — no external dependency required.**
+**Automating systems, infrastructure, and operational workflows.**
 
-* Install the complete HESCLO stack on existing servers, Proxmox clusters, or dedicated systems
-* Full control over identity, data, compliance, and lifecycle
-* No third-party cloud services required
-* Perfect for regulated sectors or security-sensitive organizations
+HESDA provides tools to reliably control and automate distributed environments:
 
----
+- Automation via **SSH access**
+- Remote control of servers, services, and workflows
+- Messaging and status notification systems
+- Support for **Linux, Windows, and macOS**
+- Modular design for custom automation logic
 
-## ☁️ **Cloud-Optional & Hybrid Operations**
-
-HESCLO is primarily self-hosted — but supports hybrid models when needed:
-
-* Optional cloud integration for remote management or extended features
-* Unified architecture for local, hybrid, or off-site deployments
-* Same security and compliance standards everywhere
-* Designed for maximum operational independence
+Ideal for:
+- DevOps teams
+- Infrastructure automation
+- Self-hosted environments
+- CI/CD-adjacent workflows
 
 ---
 
-## 📊 **Monitoring & Observability**
+## 📊 **Part 2 – Data Management**
 
-* HESCLO Monitoring Suite (based on Zabbix)
-* Centralized logs, metrics, and audit data
-* Fully isolated per installation, no shared cloud backend
+**Managing, storing, and accelerating data.**
+
+The second core pillar of HESDA focuses on efficient and scalable data handling:
+
+- Management of large data sets
+- High-performance **caching layers**
+- Persistent database storage
+- Clear separation between cache, storage, and logic
+- Scalable for local and distributed deployments
+
+Well suited for:
+- Backend services
+- Automation metadata
+- Logs and state management
+- Application-level data storage
 
 ---
 
-## 🔒 **Authentication & Access**
+## 🧱 **Modular Core Architecture**
 
-* Strong multi-factor authentication (YubiKey optional)
-* Zero-trust network principles
-* Strict segmentation of all services and subsystems
-* Local identity services replace cloud-hosted providers
+Both main areas together form the **HESDA Core**:
+
+- Loosely coupled components
+- Clear and stable interfaces
+- Can be used independently or combined
+- Foundation for future tools and extensions
 
 ---
 
-## 📜 **Compliance & Data Protection**
+## 💰 **Business Model**
 
-* Fully **GDPR-aligned**
-* All data remains on the customer’s systems
-* No telemetry, no external analysis, no data sharing
-* Transparent and verifiable security model
+**Open source software — optional commercial value.**
+
+### ☁️ **HESDA Cloud**
+
+- Fully managed HESDA instances
+- Pricing based on:
+  - Storage usage
+  - Compute resources
+- Maintenance, updates, and operations included
+- Ideal for teams without their own infrastructure
+
+### 🛠️ **Support & Services**
+
+- Multiple support tiers:
+  - Community Support
+  - Professional Support
+  - Enterprise Support
+- Additional services depending on the tier:
+  - Priority support
+  - Architecture consulting
+  - Custom features and integrations
+
+---
+
+## 🔐 **Security & Control**
+
+- Secure communication between all components
+- Strict separation of services
+- Full control over data and workflows
+- Cloud usage only when explicitly chosen
+
+---
+
+## 🌍 **Deployment Scenarios**
+
+- Fully self-hosted on your own hardware
+- Hybrid environments
+- Fully managed in the HESDA Cloud
+- Development and production workloads
 
 ---
 
 ## 📥 **Contact**
 
-📧 **[info@hesclo.com](mailto:info@hesclo.com)**
-🌐 **[https://www.hesclo.com](https://www.hesclo.com)**
-🏢 Headquarters: Germany
+📧 **info@hesda.dev**  
+🌐 **https://www.hesda.dev**  
+📍 Germany
 
 ---
 
